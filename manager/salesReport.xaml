@@ -1,0 +1,32 @@
+﻿<Window x:Class="manager.salesReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:manager"
+        mc:Ignorable="d"
+        Title="salesReport" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label" Content="Monthly Sales report" HorizontalAlignment="Left" Margin="278,10,0,0" VerticalAlignment="Top" Height="45" Width="217" FontSize="20"/>
+        <ListView x:Name="sales_report" HorizontalAlignment="Left" Height="339" Margin="22,70,0,0" VerticalAlignment="Top" Width="760">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Transaction ID" DisplayMemberBinding="{Binding transaction_id}"></GridViewColumn>
+                    <GridViewColumn Header="Patient Name" DisplayMemberBinding="{Binding p_name}"></GridViewColumn>
+                    <GridViewColumn Header="Patient Id" DisplayMemberBinding="{Binding p_id}"></GridViewColumn>
+                    <GridViewColumn Header="Lens ID" DisplayMemberBinding="{Binding lens_id}"></GridViewColumn>
+                    <GridViewColumn Header="Lens Price" DisplayMemberBinding="{Binding l_price}"></GridViewColumn>
+
+                    <GridViewColumn Header="Frame ID" DisplayMemberBinding="{Binding frame_id}"></GridViewColumn>
+                    <GridViewColumn Header="Frame Price" DisplayMemberBinding="{Binding f_price}"></GridViewColumn>
+                    <GridViewColumn Header="Date" DisplayMemberBinding="{Binding t_date}"></GridViewColumn>
+                    <GridViewColumn Header="Service Charge" DisplayMemberBinding="{Binding s_charge}"></GridViewColumn>
+                    <GridViewColumn Header="Labour Charge" DisplayMemberBinding="{Binding l_charge}"></GridViewColumn>
+                    <GridViewColumn Header="Total" DisplayMemberBinding="{Binding total}"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="button" Content="Generate Sales Report" FontSize="20" HorizontalAlignment="Left" Margin="542,22,0,0" VerticalAlignment="Top" Width="210" Height="33" Click="button_Click"/>
+
+    </Grid>
+</Window>

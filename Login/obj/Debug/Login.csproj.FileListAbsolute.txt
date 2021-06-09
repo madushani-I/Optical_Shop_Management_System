@@ -1,0 +1,50 @@
+C:\Users\IT18182910\Desktop\PPA\Login\Login\bin\Debug\Login.exe.config
+C:\Users\IT18182910\Desktop\PPA\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\IT18182910\Desktop\PPA\Login\Login\obj\Debug\App.g.cs
+C:\Users\IT18182910\Desktop\PPA\Login\Login\obj\Debug\Login_MarkupCompile.cache
+C:\Users\IT18182910\Desktop\PPA\Login\Login\obj\Debug\Login.g.resources
+C:\Users\IT18182910\Desktop\PPA\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\IT18182910\Desktop\PPA\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\IT18182910\Desktop\PPA\Login\Login\bin\Debug\Login.exe
+C:\Users\IT18182910\Desktop\PPA\Login\Login\bin\Debug\Login.pdb
+C:\Users\IT18182910\Desktop\PPA\Login\Login\obj\Debug\Login.exe
+C:\Users\IT18182910\Desktop\PPA\Login\Login\obj\Debug\Login.pdb
+C:\Users\IT18182910\Desktop\PPA\Login\Login\obj\Debug\MainWindow.baml
+C:\Users\IT18182910\Desktop\PPA\Login\Login\obj\Debug\MainWindow.g.cs
+C:\Users\IT18182910\Desktop\PPA\Login\Login\obj\Debug\Window1.baml
+C:\Users\IT18182910\Desktop\PPA\Login\Login\obj\Debug\Window1.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\obj\Debug\Login.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\obj\Debug\Login.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\bin\Debug\Login.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\bin\Debug\Login.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\obj\Debug\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\obj\Debug\Window1.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\obj\Debug\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\obj\Debug\Window1.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\obj\Debug\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\obj\Debug\Login_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\obj\Debug\Login.g.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Debug\Login.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Debug\manager.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Debug\receptionist ui.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Debug\Enter Patients Details.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Debug\workshop.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Debug\manager.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Debug\Enter Patients Details.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Debug\receptionist ui.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Debug\workshop.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Debug\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Debug\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Debug\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Debug\Login_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Debug\Login.g.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Debug\Login.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Debug\Login.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Debug\Login.exe.config

@@ -1,0 +1,33 @@
+C:\Users\IT18182910\Desktop\PPA\Login\manager\bin\Debug\manager.exe.config
+C:\Users\IT18182910\Desktop\PPA\Login\manager\obj\Debug\MainWindow.baml
+C:\Users\IT18182910\Desktop\PPA\Login\manager\obj\Debug\MainWindow.g.cs
+C:\Users\IT18182910\Desktop\PPA\Login\manager\obj\Debug\App.g.cs
+C:\Users\IT18182910\Desktop\PPA\Login\manager\obj\Debug\manager_MarkupCompile.cache
+C:\Users\IT18182910\Desktop\PPA\Login\manager\obj\Debug\manager.g.resources
+C:\Users\IT18182910\Desktop\PPA\Login\manager\obj\Debug\manager.Properties.Resources.resources
+C:\Users\IT18182910\Desktop\PPA\Login\manager\obj\Debug\manager.csproj.GenerateResource.Cache
+C:\Users\IT18182910\Desktop\PPA\Login\manager\bin\Debug\manager.exe
+C:\Users\IT18182910\Desktop\PPA\Login\manager\bin\Debug\manager.pdb
+C:\Users\IT18182910\Desktop\PPA\Login\manager\obj\Debug\manager.exe
+C:\Users\IT18182910\Desktop\PPA\Login\manager\obj\Debug\manager.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\bin\Debug\manager.exe.config
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\bin\Debug\manager.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\bin\Debug\manager.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\edit_employee.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\reg_employee.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\remove_emp.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\manager_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\manager_MarkupCompile.lref
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\edit_employee.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\reg_employee.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\remove_emp.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\manager.g.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\manager.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\manager.csproj.GenerateResource.Cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\manager.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\manager.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\view_emp.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\manager\obj\Debug\view_emp.baml

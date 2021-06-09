@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "receptionist ui", "receptionist ui\receptionist ui.csproj", "{B5A22BD3-7C2C-4D9E-AD69-59224A250164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enter Patients Details", "Enter Patients Details\Enter Patients Details.csproj", "{063F80E5-C833-45DA-85A2-C151E65FCE16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A22BD3-7C2C-4D9E-AD69-59224A250164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A22BD3-7C2C-4D9E-AD69-59224A250164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A22BD3-7C2C-4D9E-AD69-59224A250164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A22BD3-7C2C-4D9E-AD69-59224A250164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{063F80E5-C833-45DA-85A2-C151E65FCE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063F80E5-C833-45DA-85A2-C151E65FCE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063F80E5-C833-45DA-85A2-C151E65FCE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063F80E5-C833-45DA-85A2-C151E65FCE16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="login" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=THISITHA_KAVIND\SQLEXPRESS;Initial Catalog=login;Integrated Security=True" SettingsObjectName="Login.Properties.Settings" SettingsPropertyName="loginConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.login_tb" Member="login_tbs">
+    <Type Name="login_tb">
+      <Column Name="username" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="state" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

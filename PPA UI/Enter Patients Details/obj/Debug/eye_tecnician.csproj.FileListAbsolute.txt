@@ -1,0 +1,13 @@
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\bin\Debug\Enter Patients Details.exe.config
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\bin\Debug\Enter Patients Details.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\bin\Debug\Enter Patients Details.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\obj\Debug\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\obj\Debug\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\obj\Debug\Enter Patients Details_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\obj\Debug\Enter Patients Details_MarkupCompile.lref
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\obj\Debug\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\obj\Debug\Enter Patients Details.g.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\obj\Debug\Enter_Patients_Details.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\obj\Debug\eye_tecnician.csproj.GenerateResource.Cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\obj\Debug\Enter Patients Details.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\Enter Patients Details\obj\Debug\Enter Patients Details.pdb

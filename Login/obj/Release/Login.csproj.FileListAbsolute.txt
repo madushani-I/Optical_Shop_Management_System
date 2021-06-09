@@ -1,0 +1,84 @@
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Release\Login.exe.config
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Release\Login.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Release\Login.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Release\Enter Patients Details.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Release\manager.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Release\receptionist ui.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Release\workshop.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Release\manager.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Release\Enter Patients Details.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Release\receptionist ui.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\bin\Release\workshop.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Release\Login.csprojResolveAssemblyReference.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Release\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Release\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Release\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Release\Login_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Release\Login.g.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Release\Login.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Release\Login.csproj.GenerateResource.Cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Release\Login.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\Login\obj\Release\Login.pdb
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\bin\Release\Login.exe.config
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\obj\Release\Login.exe
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\obj\Release\Login.pdb
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\bin\Release\Login.exe
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\bin\Release\Login.pdb
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\bin\Release\Enter Patients Details.exe
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\bin\Release\manager.exe
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\bin\Release\receptionist ui.exe
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\bin\Release\workshop.exe
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\bin\Release\manager.pdb
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\bin\Release\Enter Patients Details.pdb
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\bin\Release\receptionist ui.pdb
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\bin\Release\workshop.pdb
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\obj\Release\Login.csprojResolveAssemblyReference.cache
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\obj\Release\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\obj\Release\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\obj\Release\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\obj\Release\Login_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\obj\Release\Login.g.resources
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\obj\Release\Login.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\Login\obj\Release\Login.csproj.GenerateResource.Cache
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\Login.exe.config
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login.exe
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login.pdb
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\Login.exe
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\Login.pdb
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\Enter Patients Details.exe
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\manager.exe
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\receptionist ui.exe
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\workshop.exe
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\manager.pdb
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\Enter Patients Details.pdb
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\receptionist ui.pdb
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\workshop.pdb
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login.csprojResolveAssemblyReference.cache
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\MainWindow.baml
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\MainWindow.g.cs
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\App.g.cs
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login_MarkupCompile.cache
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login.g.resources
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login.Properties.Resources.resources
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login.csproj.GenerateResource.Cache
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\Login.exe.config
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login.exe
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login.pdb
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\Login.exe
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\Login.pdb
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\Enter Patients Details.exe
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\manager.exe
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\receptionist ui.exe
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\workshop.exe
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\manager.pdb
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\Enter Patients Details.pdb
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\receptionist ui.pdb
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\bin\Release\workshop.pdb
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login.csprojResolveAssemblyReference.cache
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\MainWindow.baml
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\MainWindow.g.cs
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\App.g.cs
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login_MarkupCompile.cache
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login.g.resources
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login.Properties.Resources.resources
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\Login\obj\Release\Login.csproj.GenerateResource.Cache

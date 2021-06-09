@@ -1,0 +1,42 @@
+﻿<Window x:Class="manager.remove_emp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:manager"
+        mc:Ignorable="d"
+        Title="remove_emp" Height="450" Width="850">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="109*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="132*"/>
+            <RowDefinition Height="49*"/>
+            <RowDefinition Height="79*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="251*"/>
+            <ColumnDefinition Width="369*"/>
+            <ColumnDefinition Width="95*"/>
+            <ColumnDefinition Width="127*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="emp_id"  HorizontalAlignment="Left" Height="30" TextWrapping="Wrap"  VerticalAlignment="Top" Width="220" Margin="29,17,0,0" Grid.Column="1" Grid.Row="1"/>
+        <Label Content="Enter Employee ID" HorizontalAlignment="Center"  VerticalAlignment="Center" RenderTransformOrigin="-6.969,0.426" Grid.Row="1" FontSize="15"/>
+        <Label Content="Remove Employee" Grid.Column="1" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="25"/>
+        <Button Content="Remove Employee" Grid.Column="1" HorizontalAlignment="Left" Margin="289,17,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100" Height="24" Click="Button_Click_1" Grid.ColumnSpan="2"/>
+        <Button x:Name="button" Content="View Employee Data" Grid.Column="2" HorizontalAlignment="Left" Margin="65,17,0,0" Grid.Row="1" VerticalAlignment="Top" Width="122" Click="button_Click" Grid.ColumnSpan="2"/>
+        <DataGrid x:Name="dataGrid1" HorizontalAlignment="Left" Margin="-1021,-300,0,0" VerticalAlignment="Top"/>
+        <ListView Name="lvUsers" HorizontalAlignment="Left" Height="228" Margin="202,22,0,0" Grid.Row="2" Grid.RowSpan="3" VerticalAlignment="Top" Width="408" Grid.ColumnSpan="2">
+            <ListView.View>
+                <GridView>
+
+                    <GridViewColumn Header="Employee Name" Width="250" DisplayMemberBinding="{Binding Name}"  />
+
+                    <GridViewColumn Header="Employee ID" Width="160" DisplayMemberBinding="{Binding age}"  />
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>

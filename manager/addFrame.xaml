@@ -1,0 +1,41 @@
+﻿<Window x:Class="manager.addFrame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:manager"
+        mc:Ignorable="d"
+        Title="addFrame" Height="450" Width="850">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Label Content="Add Frame" Grid.Column="1" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="25"/>
+        <Label Content="Frame Type"  HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" FontSize="15" />
+        <Label Content="Frame Size" HorizontalAlignment="Center"  Grid.Row="3" VerticalAlignment="Center" FontSize="15"/>
+        <Label Content="Price" HorizontalAlignment="Center"  Grid.Row="4" VerticalAlignment="Center" FontSize="15"/>
+        <Label Content="Colour" HorizontalAlignment="Center"  Grid.Row="5" VerticalAlignment="Center" FontSize="15"/>
+        <Label Content=" Quantity " HorizontalAlignment="Center"  Grid.Row="6" VerticalAlignment="Center" FontSize="15"/>
+        <Button x:Name="reg" Content="Register" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="7" VerticalAlignment="Center" Width="101" Height="37" FontSize="15" Margin="92,8,88,8" Click="reg_Click" />
+        <TextBox x:Name="frameName"  Grid.Column="1" HorizontalAlignment="Center" Height="23"  Grid.Row="2" TextWrapping="Wrap"  VerticalAlignment="Center" Width="220"/>
+        <TextBox x:Name="frameSize"  Grid.Column="1" HorizontalAlignment="Center" Height="23"  Grid.Row="3" TextWrapping="Wrap"  VerticalAlignment="Center" Width="220"/>
+        <TextBox x:Name="framePrice"  Grid.Column="1" HorizontalAlignment="Center" Height="23"  Grid.Row="4" TextWrapping="Wrap" VerticalAlignment="Center" Width="220"/>
+        <TextBox x:Name="frameColour" Grid.Column="1" HorizontalAlignment="Center"  Grid.Row="5" VerticalAlignment="Center" Height="23" Width="220" />
+        <TextBox x:Name="qty" Grid.Column="1" HorizontalAlignment="Center"  Grid.Row="6" VerticalAlignment="Center" Height="23" Width="220"  />
+
+
+    </Grid>
+</Window>

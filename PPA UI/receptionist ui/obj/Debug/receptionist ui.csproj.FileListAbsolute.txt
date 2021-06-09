@@ -1,0 +1,49 @@
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\bin\Debug\receptionist ui.exe.config
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\bin\Debug\receptionist ui.exe
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\bin\Debug\receptionist ui.pdb
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\obj\Debug\receptionist ui.csprojResolveAssemblyReference.cache
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\obj\Debug\MainWindow.g.cs
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\obj\Debug\App.g.cs
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\obj\Debug\receptionist ui_MarkupCompile.cache
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\obj\Debug\receptionist ui_MarkupCompile.lref
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\obj\Debug\MainWindow.baml
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\obj\Debug\receptionist ui.g.resources
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\obj\Debug\receptionist_ui.Properties.Resources.resources
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\obj\Debug\receptionist ui.csproj.GenerateResource.Cache
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\obj\Debug\receptionist ui.exe
+C:\Users\Shehani111\Desktop\receptionist ui\receptionist ui\obj\Debug\receptionist ui.pdb
+C:\Users\Shehani111\Desktop\PPA UI\receptionist ui\bin\Debug\receptionist ui.exe.config
+C:\Users\Shehani111\Desktop\PPA UI\receptionist ui\obj\Debug\receptionist ui.exe
+C:\Users\Shehani111\Desktop\PPA UI\receptionist ui\obj\Debug\receptionist ui.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\bin\Debug\receptionist ui.exe.config
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\obj\Debug\receptionist ui.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\obj\Debug\receptionist ui.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\bin\Debug\receptionist ui.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\bin\Debug\receptionist ui.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\obj\Debug\receptionist ui.csprojResolveAssemblyReference.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\obj\Debug\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\obj\Debug\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\obj\Debug\receptionist ui_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\obj\Debug\receptionist ui_MarkupCompile.lref
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\obj\Debug\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\obj\Debug\receptionist ui.g.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\obj\Debug\receptionist_ui.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA UI\receptionist ui\obj\Debug\receptionist ui.csproj.GenerateResource.Cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Debug\receptionist ui.exe.config
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Debug\receptionist ui.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Debug\receptionist ui.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\receptionist ui.csprojResolveAssemblyReference.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\patient_Details.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\reg_Patient.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\receptionist ui_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\receptionist ui_MarkupCompile.lref
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\patient_Details.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\reg_Patient.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\receptionist ui.g.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\receptionist_ui.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\receptionist ui.csproj.GenerateResource.Cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\receptionist ui.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Debug\receptionist ui.pdb

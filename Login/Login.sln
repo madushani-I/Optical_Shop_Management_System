@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{44BA522A-3061-4BB4-8417-436E22D82292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manager", "manager\manager.csproj", "{6805BD2A-A355-4F7C-B230-F149C7D47294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "receptionist ui", "PPA UI\receptionist ui\receptionist ui.csproj", "{B5A22BD3-7C2C-4D9E-AD69-59224A250164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BA522A-3061-4BB4-8417-436E22D82292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BA522A-3061-4BB4-8417-436E22D82292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BA522A-3061-4BB4-8417-436E22D82292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BA522A-3061-4BB4-8417-436E22D82292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6805BD2A-A355-4F7C-B230-F149C7D47294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6805BD2A-A355-4F7C-B230-F149C7D47294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6805BD2A-A355-4F7C-B230-F149C7D47294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6805BD2A-A355-4F7C-B230-F149C7D47294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A22BD3-7C2C-4D9E-AD69-59224A250164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A22BD3-7C2C-4D9E-AD69-59224A250164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A22BD3-7C2C-4D9E-AD69-59224A250164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A22BD3-7C2C-4D9E-AD69-59224A250164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

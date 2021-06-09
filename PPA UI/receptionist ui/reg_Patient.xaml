@@ -1,0 +1,31 @@
+﻿<Window x:Class="receptionist_ui.reg_Patient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:receptionist_ui"
+        mc:Ignorable="d"
+         Title="MainWindow" Height="450" Width="850">
+    <Grid>
+
+        <Label Content="Patient Registration" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="25" Height="44" Margin="280,10,336,365" Width="226"/>
+        <Label Content="Full Name"  HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Height="30" Margin="134,79,630,310" Width="78" />
+        <Label Content="Age" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Height="30" Margin="134,128,672,261" Width="36"/>
+        <Label Content="Contact number" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Height="30" Margin="134,178,591,211" Width="117"/>
+        <Label Content="Email Address" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Height="30" Margin="134,224,606,165" Width="102"/>
+
+        <TextBox x:Name="man_name_txt" HorizontalAlignment="Left" Height="30" Margin="311,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="249"></TextBox>
+        <TextBox x:Name="man_age_txt" HorizontalAlignment="Left" Height="30" Margin="311,128,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="249"/>
+        <TextBox x:Name="man_contact_txt" HorizontalAlignment="Left" Height="30" Margin="311,178,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="249"/>
+        <TextBox x:Name="man_email_txt" HorizontalAlignment="Left" Height="30" Margin="311,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="249"/>
+
+        <Button x:Name="reg" Content="Register" HorizontalAlignment="Center" VerticalAlignment="Center" Width="102" Height="38" FontSize="15" Margin="543,353,197,28" Click="reg_Click" />
+        <Label x:Name="label" FontSize="15" Content="Address" HorizontalAlignment="Left" Margin="134,271,0,0" VerticalAlignment="Top" Height="29" RenderTransformOrigin="-0.579,0.586"/>
+        <TextBox x:Name="address" HorizontalAlignment="Left" Height="29" Margin="311,271,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="249"/>
+        <Button x:Name="bck_btn" Content="Back" HorizontalAlignment="Left" Margin="280,353,0,0" VerticalAlignment="Top" Width="103" Height="38" Click="bck_btn_Click"/>
+        <TextBox x:Name="shw_pid" HorizontalAlignment="Left" Height="23" Margin="685,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+
+
+    </Grid>
+</Window>

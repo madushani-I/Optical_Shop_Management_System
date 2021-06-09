@@ -1,0 +1,13 @@
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\bin\Debug\workshop.exe.config
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\bin\Debug\workshop.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\bin\Debug\workshop.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\obj\Debug\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\obj\Debug\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\obj\Debug\workshop_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\obj\Debug\workshop_MarkupCompile.lref
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\obj\Debug\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\obj\Debug\workshop.g.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\obj\Debug\workshop.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\obj\Debug\workshop.csproj.GenerateResource.Cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\obj\Debug\workshop.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\workshop\obj\Debug\workshop.pdb

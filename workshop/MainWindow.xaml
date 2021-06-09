@@ -1,0 +1,32 @@
+﻿<Window x:Class="workshop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:workshop"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="done_btn" Content="Done" HorizontalAlignment="Left" Margin="317,271,0,0" VerticalAlignment="Top" Width="75" Click="done_btn_Click"/>
+        <Button x:Name="button1" Content="logout" HorizontalAlignment="Left" Margin="140,266,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <Button Content="view" HorizontalAlignment="Left" Margin="366,82,0,0" VerticalAlignment="Top" Width="61" Click="Button_Click"></Button>
+
+        <Label Content="Workshop" FontSize="22" HorizontalAlignment="Left" Margin="186,10,0,0" VerticalAlignment="Top" Height="39" Width="163"/>
+        <Label Content="Patient ID" HorizontalAlignment="Left" Margin="131,76,0,0" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="txt_pid" HorizontalAlignment="Left" Height="23" Margin="260,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="69"></TextBox>
+        <Label Content="Lens ID" HorizontalAlignment="Left" Margin="116,170,0,0" VerticalAlignment="Top" Width="55" RenderTransformOrigin="0.691,0.462"/>
+        <Label Content="Frame ID" HorizontalAlignment="Left" Margin="271,167,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="show_r_pwr" HorizontalAlignment="Left" Height="23" Margin="186,132,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="61"></TextBox>
+        <TextBox  x:Name="show_l_pwr" Height="23" Margin="334,132,109,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBox x:Name="show_lid" HorizontalAlignment="Left" Height="23" Margin="186,170,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="61"/>
+        <TextBox  x:Name="show_fid" Height="23" Margin="334,167,109,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="show_discription" HorizontalAlignment="Left" Height="60" Margin="155,201,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="253"/>
+        <Label x:Name="label" Content="Right eye power" HorizontalAlignment="Left" Margin="75,129,0,0" VerticalAlignment="Top" Width="106"/>
+        <Label x:Name="label1" Content="Left eye power" HorizontalAlignment="Left" Margin="247,129,0,0" VerticalAlignment="Top" Width="87"/>
+
+
+
+
+    </Grid>
+</Window>

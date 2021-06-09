@@ -1,0 +1,14 @@
+﻿<Window x:Class="manager.remove_item"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:manager"
+        mc:Ignorable="d"
+        Title="remove_item" Height="450" Width="850">
+    <Grid>
+        <Button x:Name="button" Content="Remove Frame" HorizontalAlignment="Left" Margin="158,157,0,0" VerticalAlignment="Top" Width="239" Height="138" FontSize="30" Click="button_Click"/>
+        <Button x:Name="button1" Content="Remove Lens" HorizontalAlignment="Left" Margin="508,157,0,0" VerticalAlignment="Top" Width="227" Height="138" FontSize="30" Click="button1_Click"/>
+
+    </Grid>
+</Window>

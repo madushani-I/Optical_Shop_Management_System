@@ -1,0 +1,75 @@
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Release\receptionist ui.exe.config
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Release\receptionist ui.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Release\receptionist ui.pdb
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\patient_Details.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\reg_Patient.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui_MarkupCompile.lref
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\patient_Details.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\reg_Patient.baml
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.g.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist_ui.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.csproj.GenerateResource.Cache
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.exe
+C:\Users\Uditha Nayanajith\Desktop\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.pdb
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.csprojResolveAssemblyReference.cache
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\patient_Details.g.cs
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\reg_Patient.g.cs
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui_MarkupCompile.lref
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.exe
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.pdb
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Release\receptionist ui.exe.config
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Release\receptionist ui.exe
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Release\receptionist ui.pdb
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\patient_Details.baml
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\reg_Patient.baml
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.g.resources
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist_ui.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\backup\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.csproj.GenerateResource.Cache
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Release\receptionist ui.exe.config
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Release\receptionist ui.exe
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Release\receptionist ui.pdb
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.csprojResolveAssemblyReference.cache
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\MainWindow.g.cs
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\patient_Details.g.cs
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\reg_Patient.g.cs
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\App.g.cs
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui_MarkupCompile.cache
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui_MarkupCompile.lref
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\MainWindow.baml
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\patient_Details.baml
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\reg_Patient.baml
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.g.resources
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist_ui.Properties.Resources.resources
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.csproj.GenerateResource.Cache
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.exe
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.pdb
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\checkout.g.cs
+C:\Users\THISITHA\Desktop\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\checkout.baml
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Release\receptionist ui.exe.config
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.exe
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.pdb
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.csprojResolveAssemblyReference.cache
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\checkout.g.cs
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\MainWindow.g.cs
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\patient_Details.g.cs
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\reg_Patient.g.cs
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\App.g.cs
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui_MarkupCompile.cache
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui_MarkupCompile.lref
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Release\receptionist ui.exe
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\bin\Release\receptionist ui.pdb
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\checkout.baml
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\MainWindow.baml
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\patient_Details.baml
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\reg_Patient.baml
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.g.resources
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist_ui.Properties.Resources.resources
+C:\Users\THISITHA\Desktop\new finished\maxxxxmaxxx\PPA(Dont change)2\Login\PPA UI\receptionist ui\obj\Release\receptionist ui.csproj.GenerateResource.Cache
